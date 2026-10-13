@@ -20,3 +20,12 @@ A live checkout is **not cash**. Ledger stays **$0.00** until a stranger settles
 ## Kill
 
 NHC/USGS advisory mill. Fiverr (no crypto settlement). Treating listing URLs as revenue.
+
+## Free social media tools
+
+Handy no-signup tools I use when drafting social posts:
+
+- [Instagram Caption Generator](https://muddlefox.com/instagram-caption-generator/): quick caption ideas for a post.
+- [TikTok Hashtag Generator](https://muddlefox.com/tiktok-hashtag-generator/): relevant hashtag sets for a TikTok topic.
+
+More tools at [muddlefox.com](https://muddlefox.com).
